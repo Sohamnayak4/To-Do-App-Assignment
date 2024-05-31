@@ -46,6 +46,7 @@ This is a simple To-Do List application that allows users to manage their tasks.
 
 2. **Start the frontend development server**:
     ```sh
+    cd ..
     cd frontend
     npm run dev
     ```
