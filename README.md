@@ -40,6 +40,7 @@ This is a simple To-Do List application that allows users to manage their tasks.
 1. **Start the backend server**:
     ```sh
     cd ..
+    cd backend
     node server.js
     ```
 
